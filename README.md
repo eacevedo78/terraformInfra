@@ -1,5 +1,8 @@
 # myAPI-terraform
 
-myAPI is the proyect used in bedu Agile Development course.
+Contiene el script terraform para levantar los ambientes para la sesion 08
 
-It builds jenkins and sonarqube containers to build and test your pipelines.
+* Jenkins
+* Mysql
+* Sonarqueb
+
